@@ -21,6 +21,3 @@ while(cont == 1):
 			guess = int(input("Please guess an integer from 0 to 100:   "))
 	print ("Congrats you guessed correctly with", count, "guesses!")
 	cont = int(input("Do you want to play again? 1=yes 0=no"))
-
-
-	
